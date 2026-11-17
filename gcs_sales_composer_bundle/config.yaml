@@ -1,0 +1,37 @@
+# Place this file beside the DAG in the Composer dags/ folder.
+gcp:
+  project_id: "project-23dfabac-4beb-4269-a9d"
+  dataset_id: "event_based_trigger"
+  location: "US"  # Change if your BigQuery dataset is in another location.
+
+gcs:
+  bucket: "event-based-trigger"
+  source_prefix: "source-files/"
+  archive_prefix: "archive/"
+
+schedule:
+  cron: "0 5 * * *"
+  timezone: "Asia/Kolkata"
+
+bigquery:
+  target_table: "processed_sales_data"
+  source_table_prefix: ""  # Each CSV becomes a table named after its filename.
+  create_target_if_missing: true
+
+# CSV column order and types from the supplied sample file.
+source_schema:
+  - {name: "Transaction_ID", type: "STRING"}
+  - {name: "Date", type: "DATE"}
+  - {name: "Time", type: "TIME"}
+  - {name: "Store_ID", type: "STRING"}
+  - {name: "Store_Location", type: "STRING"}
+  - {name: "Product_ID", type: "STRING"}
+  - {name: "Product_Name", type: "STRING"}
+  - {name: "Category", type: "STRING"}
+  - {name: "Quantity", type: "INT64"}
+  - {name: "Unit_Price", type: "NUMERIC"}
+  - {name: "Discount_Percent", type: "NUMERIC"}
+  - {name: "Total_Amount", type: "NUMERIC"}
+  - {name: "Payment_Method", type: "STRING"}
+  - {name: "Customer_Type", type: "STRING"}
+  - {name: "Cashier_ID", type: "STRING"}
