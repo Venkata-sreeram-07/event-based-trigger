@@ -1,0 +1,579 @@
+Transaction_ID,Date,Time,Store_ID,Store_Location,Product_ID,Product_Name,Category,Quantity,Unit_Price,Discount_Percent,Total_Amount,Payment_Method,Customer_Type,Cashier_ID
+T3000000,2024-11-15,08:02:12,S005,Southgate,P1007,Bagels 6pk,Bakery,1,4.8,10,4.32,Cash,Member,C107
+T3000001,2024-11-15,08:02:53,S004,East Market,P1003,Greek Yogurt 500g,Dairy,1,4.19,0,4.19,Debit Card,Member,C116
+T3000002,2024-11-15,08:02:54,S003,North Plaza,P1008,Bananas 1kg,Produce,1,1.24,10,1.12,Cash,Member,C118
+T3000003,2024-11-15,08:05:03,S003,North Plaza,P1021,Potato Chips 150g,Snacks,2,3.16,10,5.69,Gift Card,Non-Member,C105
+T3000004,2024-11-15,08:07:03,S005,Southgate,P1030,Paper Towels 6pk,Household,2,8.8,0,17.6,Debit Card,Member,C112
+T3000005,2024-11-15,08:14:07,S002,Westside Mall,P1015,Shrimp 500g,Seafood,1,12.65,5,12.02,Cash,Member,C117
+T3000006,2024-11-15,08:17:46,S002,Westside Mall,P1006,Croissant Pack,Bakery,4,6.85,15,23.29,Debit Card,Member,C108
+T3000007,2024-11-15,08:18:43,S004,East Market,P1040,Honey 500g,Pantry,1,8.68,5,8.25,Cash,Non-Member,C110
+T3000008,2024-11-15,08:19:27,S001,Downtown,P1032,Toothpaste 100ml,Personal Care,3,3.81,0,11.43,Debit Card,Non-Member,C104
+T3000009,2024-11-15,08:19:30,S004,East Market,P1035,Frozen Pizza,Frozen,4,6.95,10,25.02,Mobile Wallet,Non-Member,C109
+T3000010,2024-11-15,08:20:24,S002,Westside Mall,P1012,Chicken Breast 1kg,Meat,1,12.38,5,11.76,Mobile Wallet,Member,C114
+T3000011,2024-11-15,08:26:39,S003,North Plaza,P1010,Tomatoes 1kg,Produce,2,3.59,5,6.82,Cash,Non-Member,C116
+T3000012,2024-11-15,08:27:44,S001,Downtown,P1006,Croissant Pack,Bakery,1,6.75,5,6.41,Debit Card,Non-Member,C115
+T3000013,2024-11-15,08:31:20,S003,North Plaza,P1013,Ground Beef 1kg,Meat,6,9.51,20,45.65,Credit Card,Member,C108
+T3000014,2024-11-15,08:31:53,S005,Southgate,P1003,Greek Yogurt 500g,Dairy,2,4.45,10,8.01,Cash,Member,C110
+T3000015,2024-11-15,08:34:38,S002,Westside Mall,P1013,Ground Beef 1kg,Meat,1,9.76,0,9.76,Cash,Non-Member,C118
+T3000016,2024-11-15,08:36:57,S001,Downtown,P1003,Greek Yogurt 500g,Dairy,4,4.25,0,17.0,Cash,Non-Member,C109
+T3000017,2024-11-15,08:37:37,S002,Westside Mall,P1038,Eggs 12pk,Dairy,5,5.2,0,26.0,Debit Card,Non-Member,C115
+T3000018,2024-11-15,08:39:17,S001,Downtown,P1016,Orange Juice 1L,Beverages,1,4.1,5,3.89,Debit Card,Member,C109
+T3000019,2024-11-15,08:40:21,S002,Westside Mall,P1018,Mineral Water 1.5L,Beverages,2,1.26,0,2.52,Debit Card,Member,C115
+T3000020,2024-11-15,08:41:28,S002,Westside Mall,P1026,Rice 2kg,Pantry,2,6.59,0,13.18,Credit Card,Non-Member,C110
+T3000021,2024-11-15,08:41:40,S003,North Plaza,P1014,Salmon Fillet 500g,Seafood,4,15.57,0,62.28,Credit Card,Member,C109
+T3000022,2024-11-15,08:41:41,S004,East Market,P1001,Whole Milk 1L,Dairy,1,3.42,0,3.42,Mobile Wallet,Member,C115
+T3000023,2024-11-15,08:42:17,S005,Southgate,P1011,Spinach 250g,Produce,1,2.14,5,2.03,Credit Card,Member,C106
+T3000024,2024-11-15,08:43:31,S004,East Market,P1040,Honey 500g,Pantry,2,8.48,5,16.11,Cash,Member,C112
+T3000025,2024-11-15,08:43:59,S002,Westside Mall,P1019,Coffee Beans 500g,Beverages,1,13.51,15,11.48,Gift Card,Member,C103
+T3000026,2024-11-15,08:46:04,S004,East Market,P1021,Potato Chips 150g,Snacks,1,3.41,0,3.41,Cash,Non-Member,C120
+T3000027,2024-11-15,08:49:42,S002,Westside Mall,P1021,Potato Chips 150g,Snacks,5,3.32,5,15.77,Mobile Wallet,Non-Member,C116
+T3000028,2024-11-15,08:51:12,S003,North Plaza,P1036,Ice Cream 1L,Frozen,2,5.47,0,10.94,Gift Card,Non-Member,C103
+T3000029,2024-11-15,08:51:24,S005,Southgate,P1022,Chocolate Bar,Snacks,2,2.02,20,3.23,Cash,Non-Member,C111
+T3000030,2024-11-15,08:54:00,S001,Downtown,P1040,Honey 500g,Pantry,1,8.07,0,8.07,Debit Card,Non-Member,C110
+T3000031,2024-11-15,08:55:08,S004,East Market,P1010,Tomatoes 1kg,Produce,3,3.37,0,10.11,Debit Card,Member,C105
+T3000032,2024-11-15,08:58:55,S005,Southgate,P1003,Greek Yogurt 500g,Dairy,3,4.32,0,12.96,Cash,Member,C103
+T3000033,2024-11-15,08:59:07,S005,Southgate,P1034,Hand Soap 300ml,Personal Care,1,3.29,0,3.29,Mobile Wallet,Member,C117
+T3000034,2024-11-15,09:03:48,S005,Southgate,P1020,Green Tea 25 bags,Beverages,3,4.37,5,12.45,Mobile Wallet,Member,C116
+T3000035,2024-11-15,09:04:04,S004,East Market,P1026,Rice 2kg,Pantry,3,6.26,0,18.78,Gift Card,Non-Member,C114
+T3000036,2024-11-15,09:05:05,S003,North Plaza,P1011,Spinach 250g,Produce,2,2.27,15,3.86,Cash,Member,C114
+T3000037,2024-11-15,09:05:46,S001,Downtown,P1002,Cheddar Cheese 200g,Dairy,5,6.22,0,31.1,Credit Card,Member,C119
+T3000038,2024-11-15,09:06:45,S001,Downtown,P1026,Rice 2kg,Pantry,4,6.65,10,23.94,Gift Card,Member,C115
+T3000039,2024-11-15,09:10:09,S001,Downtown,P1040,Honey 500g,Pantry,3,8.66,0,25.98,Debit Card,Member,C118
+T3000040,2024-11-15,09:11:05,S005,Southgate,P1008,Bananas 1kg,Produce,1,1.23,20,0.98,Cash,Member,C108
+T3000041,2024-11-15,09:11:58,S003,North Plaza,P1001,Whole Milk 1L,Dairy,2,3.37,0,6.74,Debit Card,Member,C115
+T3000042,2024-11-15,09:12:13,S002,Westside Mall,P1030,Paper Towels 6pk,Household,2,8.99,0,17.98,Mobile Wallet,Member,C118
+T3000043,2024-11-15,09:14:29,S001,Downtown,P1024,Cookies 300g,Snacks,1,4.57,0,4.57,Cash,Member,C110
+T3000044,2024-11-15,09:15:10,S003,North Plaza,P1027,Olive Oil 1L,Pantry,2,11.52,0,23.04,Gift Card,Member,C103
+T3000045,2024-11-15,09:16:16,S001,Downtown,P1016,Orange Juice 1L,Beverages,1,4.01,0,4.01,Debit Card,Member,C106
+T3000046,2024-11-15,09:17:35,S003,North Plaza,P1003,Greek Yogurt 500g,Dairy,1,4.21,0,4.21,Gift Card,Non-Member,C118
+T3000047,2024-11-15,09:19:09,S001,Downtown,P1018,Mineral Water 1.5L,Beverages,1,1.19,10,1.07,Debit Card,Member,C107
+T3000048,2024-11-15,09:21:10,S003,North Plaza,P1011,Spinach 250g,Produce,2,2.27,10,4.09,Credit Card,Non-Member,C119
+T3000049,2024-11-15,09:21:15,S005,Southgate,P1025,Pasta 500g,Pantry,5,2.26,5,10.73,Debit Card,Member,C116
+T3000050,2024-11-15,09:24:48,S004,East Market,P1037,Frozen Veggies 1kg,Frozen,1,4.74,0,4.74,Credit Card,Non-Member,C103
+T3000051,2024-11-15,09:26:04,S005,Southgate,P1011,Spinach 250g,Produce,1,2.17,15,1.84,Cash,Non-Member,C115
+T3000052,2024-11-15,09:27:14,S001,Downtown,P1006,Croissant Pack,Bakery,1,6.93,0,6.93,Credit Card,Member,C117
+T3000053,2024-11-15,09:28:50,S005,Southgate,P1006,Croissant Pack,Bakery,1,6.47,20,5.18,Gift Card,Non-Member,C102
+T3000054,2024-11-15,09:29:11,S002,Westside Mall,P1033,Shampoo 400ml,Personal Care,3,7.11,20,17.06,Credit Card,Non-Member,C103
+T3000055,2024-11-15,09:31:47,S005,Southgate,P1038,Eggs 12pk,Dairy,1,5.1,10,4.59,Gift Card,Member,C111
+T3000056,2024-11-15,09:31:56,S002,Westside Mall,P1001,Whole Milk 1L,Dairy,1,3.62,0,3.62,Debit Card,Member,C105
+T3000057,2024-11-15,09:35:05,S003,North Plaza,P1032,Toothpaste 100ml,Personal Care,2,3.85,0,7.7,Credit Card,Non-Member,C102
+T3000058,2024-11-15,09:36:06,S004,East Market,P1003,Greek Yogurt 500g,Dairy,2,4.29,10,7.72,Cash,Non-Member,C108
+T3000059,2024-11-15,09:37:08,S001,Downtown,P1009,Apples 1kg,Produce,2,3.09,5,5.87,Mobile Wallet,Member,C118
+T3000060,2024-11-15,09:37:56,S001,Downtown,P1014,Salmon Fillet 500g,Seafood,2,14.58,0,29.16,Debit Card,Member,C106
+T3000061,2024-11-15,09:38:23,S002,Westside Mall,P1033,Shampoo 400ml,Personal Care,1,7.46,0,7.46,Debit Card,Member,C114
+T3000062,2024-11-15,09:39:04,S005,Southgate,P1004,Butter 250g,Dairy,1,4.9,0,4.9,Gift Card,Member,C106
+T3000063,2024-11-15,09:40:31,S004,East Market,P1017,Cola 2L,Beverages,3,2.76,5,7.87,Gift Card,Non-Member,C103
+T3000064,2024-11-15,09:40:43,S001,Downtown,P1035,Frozen Pizza,Frozen,6,6.67,0,40.02,Credit Card,Member,C105
+T3000065,2024-11-15,09:41:19,S001,Downtown,P1026,Rice 2kg,Pantry,2,6.68,0,13.36,Debit Card,Member,C103
+T3000066,2024-11-15,09:43:25,S002,Westside Mall,P1003,Greek Yogurt 500g,Dairy,1,4.14,0,4.14,Credit Card,Non-Member,C109
+T3000067,2024-11-15,09:46:13,S005,Southgate,P1035,Frozen Pizza,Frozen,1,7.09,5,6.74,Debit Card,Member,C119
+T3000068,2024-11-15,09:46:17,S003,North Plaza,P1031,Laundry Detergent 2L,Household,1,14.0,5,13.3,Gift Card,Member,C101
+T3000069,2024-11-15,09:46:19,S005,Southgate,P1027,Olive Oil 1L,Pantry,1,11.33,0,11.33,Mobile Wallet,Member,C109
+T3000070,2024-11-15,09:47:37,S001,Downtown,P1001,Whole Milk 1L,Dairy,2,3.57,20,5.71,Mobile Wallet,Member,C120
+T3000071,2024-11-15,09:48:23,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,1,3.35,10,3.02,Debit Card,Member,C114
+T3000072,2024-11-15,09:51:59,S001,Downtown,P1040,Honey 500g,Pantry,2,8.01,20,12.82,Debit Card,Non-Member,C104
+T3000073,2024-11-15,09:53:39,S004,East Market,P1007,Bagels 6pk,Bakery,1,4.87,15,4.14,Debit Card,Member,C115
+T3000074,2024-11-15,09:55:32,S002,Westside Mall,P1023,Mixed Nuts 250g,Snacks,2,7.84,25,11.76,Credit Card,Member,C117
+T3000075,2024-11-15,09:56:57,S004,East Market,P1039,Cereal 500g,Pantry,2,5.17,0,10.34,Debit Card,Member,C115
+T3000076,2024-11-15,09:59:51,S004,East Market,P1014,Salmon Fillet 500g,Seafood,3,14.49,25,32.6,Gift Card,Member,C106
+T3000077,2024-11-15,10:01:35,S004,East Market,P1040,Honey 500g,Pantry,2,8.35,0,16.7,Mobile Wallet,Member,C102
+T3000078,2024-11-15,10:03:00,S004,East Market,P1006,Croissant Pack,Bakery,3,7.04,5,20.06,Mobile Wallet,Member,C105
+T3000079,2024-11-15,10:07:59,S003,North Plaza,P1005,White Bread Loaf,Bakery,2,2.42,5,4.6,Credit Card,Non-Member,C111
+T3000080,2024-11-15,10:09:37,S004,East Market,P1024,Cookies 300g,Snacks,3,4.38,5,12.48,Credit Card,Member,C101
+T3000081,2024-11-15,10:10:33,S002,Westside Mall,P1022,Chocolate Bar,Snacks,3,2.19,15,5.58,Mobile Wallet,Member,C114
+T3000082,2024-11-15,10:11:04,S004,East Market,P1001,Whole Milk 1L,Dairy,6,3.43,0,20.58,Mobile Wallet,Non-Member,C104
+T3000083,2024-11-15,10:12:28,S004,East Market,P1009,Apples 1kg,Produce,1,3.07,10,2.76,Cash,Member,C114
+T3000084,2024-11-15,10:12:56,S002,Westside Mall,P1023,Mixed Nuts 250g,Snacks,1,7.96,0,7.96,Credit Card,Member,C103
+T3000085,2024-11-15,10:13:28,S002,Westside Mall,P1026,Rice 2kg,Pantry,3,6.26,20,15.02,Credit Card,Non-Member,C111
+T3000086,2024-11-15,10:18:16,S003,North Plaza,P1027,Olive Oil 1L,Pantry,1,10.94,15,9.3,Mobile Wallet,Member,C116
+T3000087,2024-11-15,10:18:29,S002,Westside Mall,P1003,Greek Yogurt 500g,Dairy,1,4.35,0,4.35,Cash,Non-Member,C108
+T3000088,2024-11-15,10:19:21,S002,Westside Mall,P1017,Cola 2L,Beverages,4,2.78,0,11.12,Debit Card,Non-Member,C111
+T3000089,2024-11-15,10:20:08,S003,North Plaza,P1007,Bagels 6pk,Bakery,2,5.07,10,9.13,Gift Card,Member,C115
+T3000090,2024-11-15,10:21:59,S005,Southgate,P1027,Olive Oil 1L,Pantry,2,11.09,5,21.07,Debit Card,Non-Member,C115
+T3000091,2024-11-15,10:22:01,S002,Westside Mall,P1026,Rice 2kg,Pantry,2,6.67,0,13.34,Gift Card,Non-Member,C116
+T3000092,2024-11-15,10:23:02,S002,Westside Mall,P1005,White Bread Loaf,Bakery,1,2.58,0,2.58,Gift Card,Member,C114
+T3000093,2024-11-15,10:27:09,S001,Downtown,P1014,Salmon Fillet 500g,Seafood,1,14.69,0,14.69,Debit Card,Member,C116
+T3000094,2024-11-15,10:27:35,S002,Westside Mall,P1013,Ground Beef 1kg,Meat,1,9.42,10,8.48,Gift Card,Member,C107
+T3000095,2024-11-15,10:31:42,S004,East Market,P1039,Cereal 500g,Pantry,2,5.37,20,8.59,Cash,Member,C104
+T3000096,2024-11-15,10:33:36,S001,Downtown,P1010,Tomatoes 1kg,Produce,2,3.56,0,7.12,Debit Card,Member,C106
+T3000097,2024-11-15,10:34:13,S003,North Plaza,P1003,Greek Yogurt 500g,Dairy,2,4.17,5,7.92,Cash,Non-Member,C120
+T3000098,2024-11-15,10:38:16,S005,Southgate,P1016,Orange Juice 1L,Beverages,2,4.1,5,7.79,Debit Card,Member,C104
+T3000099,2024-11-15,10:40:12,S004,East Market,P1025,Pasta 500g,Pantry,1,2.12,0,2.12,Debit Card,Non-Member,C115
+T3000100,2024-11-15,10:40:38,S004,East Market,P1016,Orange Juice 1L,Beverages,3,3.97,10,10.72,Cash,Member,C113
+T3000101,2024-11-15,10:40:53,S003,North Plaza,P1034,Hand Soap 300ml,Personal Care,2,3.26,0,6.52,Debit Card,Non-Member,C114
+T3000102,2024-11-15,10:42:21,S005,Southgate,P1034,Hand Soap 300ml,Personal Care,6,3.3,10,17.82,Cash,Non-Member,C110
+T3000103,2024-11-15,10:43:35,S002,Westside Mall,P1016,Orange Juice 1L,Beverages,2,4.13,10,7.43,Debit Card,Member,C106
+T3000104,2024-11-15,10:44:16,S001,Downtown,P1007,Bagels 6pk,Bakery,1,4.77,25,3.58,Mobile Wallet,Non-Member,C109
+T3000105,2024-11-15,10:46:59,S001,Downtown,P1005,White Bread Loaf,Bakery,2,2.48,5,4.71,Debit Card,Member,C105
+T3000106,2024-11-15,10:48:59,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,2,3.46,15,5.88,Mobile Wallet,Member,C120
+T3000107,2024-11-15,10:49:34,S003,North Plaza,P1015,Shrimp 500g,Seafood,4,12.58,20,40.26,Gift Card,Member,C101
+T3000108,2024-11-15,10:51:48,S001,Downtown,P1021,Potato Chips 150g,Snacks,4,3.37,0,13.48,Cash,Member,C106
+T3000109,2024-11-15,10:52:41,S004,East Market,P1038,Eggs 12pk,Dairy,1,4.84,0,4.84,Gift Card,Member,C108
+T3000110,2024-11-15,10:52:49,S001,Downtown,P1013,Ground Beef 1kg,Meat,1,9.05,0,9.05,Cash,Member,C115
+T3000111,2024-11-15,10:53:17,S002,Westside Mall,P1007,Bagels 6pk,Bakery,2,4.92,0,9.84,Debit Card,Non-Member,C105
+T3000112,2024-11-15,10:55:07,S003,North Plaza,P1035,Frozen Pizza,Frozen,2,7.12,0,14.24,Cash,Non-Member,C103
+T3000113,2024-11-15,10:58:26,S001,Downtown,P1022,Chocolate Bar,Snacks,2,2.0,10,3.6,Cash,Member,C120
+T3000114,2024-11-15,10:59:33,S003,North Plaza,P1024,Cookies 300g,Snacks,4,4.65,0,18.6,Credit Card,Non-Member,C106
+T3000115,2024-11-15,11:04:40,S004,East Market,P1003,Greek Yogurt 500g,Dairy,2,4.33,5,8.23,Cash,Member,C116
+T3000116,2024-11-15,11:05:05,S003,North Plaza,P1036,Ice Cream 1L,Frozen,1,5.51,5,5.23,Gift Card,Non-Member,C113
+T3000117,2024-11-15,11:05:09,S001,Downtown,P1036,Ice Cream 1L,Frozen,4,5.31,0,21.24,Mobile Wallet,Non-Member,C116
+T3000118,2024-11-15,11:05:35,S003,North Plaza,P1037,Frozen Veggies 1kg,Frozen,3,4.64,0,13.92,Mobile Wallet,Member,C117
+T3000119,2024-11-15,11:05:59,S005,Southgate,P1017,Cola 2L,Beverages,1,2.67,0,2.67,Credit Card,Non-Member,C111
+T3000120,2024-11-15,11:06:34,S003,North Plaza,P1005,White Bread Loaf,Bakery,1,2.42,0,2.42,Gift Card,Member,C116
+T3000121,2024-11-15,11:06:54,S004,East Market,P1038,Eggs 12pk,Dairy,4,5.17,0,20.68,Cash,Member,C115
+T3000122,2024-11-15,11:08:58,S005,Southgate,P1017,Cola 2L,Beverages,1,2.7,10,2.43,Cash,Member,C109
+T3000123,2024-11-15,11:09:19,S001,Downtown,P1012,Chicken Breast 1kg,Meat,1,12.09,0,12.09,Credit Card,Non-Member,C113
+T3000124,2024-11-15,11:10:51,S003,North Plaza,P1016,Orange Juice 1L,Beverages,2,3.85,0,7.7,Mobile Wallet,Member,C120
+T3000125,2024-11-15,11:12:19,S003,North Plaza,P1005,White Bread Loaf,Bakery,1,2.46,0,2.46,Credit Card,Member,C109
+T3000126,2024-11-15,11:14:01,S003,North Plaza,P1030,Paper Towels 6pk,Household,6,9.08,0,54.48,Debit Card,Member,C120
+T3000127,2024-11-15,11:15:03,S002,Westside Mall,P1029,Dish Soap 750ml,Household,3,4.11,15,10.48,Gift Card,Member,C108
+T3000128,2024-11-15,11:16:30,S002,Westside Mall,P1009,Apples 1kg,Produce,4,3.02,0,12.08,Credit Card,Member,C106
+T3000129,2024-11-15,11:16:54,S004,East Market,P1021,Potato Chips 150g,Snacks,2,3.29,10,5.92,Mobile Wallet,Member,C115
+T3000130,2024-11-15,11:17:06,S002,Westside Mall,P1016,Orange Juice 1L,Beverages,1,3.97,0,3.97,Cash,Member,C110
+T3000131,2024-11-15,11:20:27,S005,Southgate,P1019,Coffee Beans 500g,Beverages,4,12.35,0,49.4,Credit Card,Member,C108
+T3000132,2024-11-15,11:20:34,S003,North Plaza,P1024,Cookies 300g,Snacks,1,4.74,0,4.74,Debit Card,Member,C105
+T3000133,2024-11-15,11:24:22,S004,East Market,P1002,Cheddar Cheese 200g,Dairy,1,5.72,5,5.43,Debit Card,Member,C117
+T3000134,2024-11-15,11:24:23,S004,East Market,P1023,Mixed Nuts 250g,Snacks,1,8.17,5,7.76,Credit Card,Non-Member,C101
+T3000135,2024-11-15,11:26:55,S005,Southgate,P1002,Cheddar Cheese 200g,Dairy,1,6.1,15,5.18,Cash,Member,C114
+T3000136,2024-11-15,11:27:33,S002,Westside Mall,P1003,Greek Yogurt 500g,Dairy,3,4.38,25,9.86,Debit Card,Member,C120
+T3000137,2024-11-15,11:28:50,S005,Southgate,P1033,Shampoo 400ml,Personal Care,1,6.9,0,6.9,Mobile Wallet,Member,C105
+T3000138,2024-11-15,11:29:08,S004,East Market,P1017,Cola 2L,Beverages,2,2.79,0,5.58,Mobile Wallet,Non-Member,C108
+T3000139,2024-11-15,11:30:31,S003,North Plaza,P1028,Tomato Sauce 500g,Pantry,1,3.03,15,2.58,Credit Card,Member,C106
+T3000140,2024-11-15,11:30:52,S002,Westside Mall,P1004,Butter 250g,Dairy,1,4.9,5,4.66,Credit Card,Non-Member,C116
+T3000141,2024-11-15,11:31:18,S004,East Market,P1022,Chocolate Bar,Snacks,1,2.02,0,2.02,Debit Card,Member,C115
+T3000142,2024-11-15,11:33:51,S005,Southgate,P1039,Cereal 500g,Pantry,3,5.05,10,13.63,Gift Card,Member,C113
+T3000143,2024-11-15,11:35:53,S005,Southgate,P1007,Bagels 6pk,Bakery,3,5.2,0,15.6,Gift Card,Non-Member,C101
+T3000144,2024-11-15,11:38:09,S003,North Plaza,P1012,Chicken Breast 1kg,Meat,1,12.1,0,12.1,Gift Card,Non-Member,C115
+T3000145,2024-11-15,11:39:26,S001,Downtown,P1021,Potato Chips 150g,Snacks,3,3.19,15,8.13,Cash,Member,C105
+T3000146,2024-11-15,11:39:38,S003,North Plaza,P1040,Honey 500g,Pantry,1,8.58,0,8.58,Gift Card,Non-Member,C118
+T3000147,2024-11-15,11:40:00,S003,North Plaza,P1010,Tomatoes 1kg,Produce,3,3.44,0,10.32,Debit Card,Member,C120
+T3000148,2024-11-15,11:42:05,S002,Westside Mall,P1009,Apples 1kg,Produce,1,2.91,20,2.33,Cash,Non-Member,C110
+T3000149,2024-11-15,11:43:45,S002,Westside Mall,P1012,Chicken Breast 1kg,Meat,1,11.78,0,11.78,Debit Card,Member,C101
+T3000150,2024-11-15,11:44:07,S002,Westside Mall,P1013,Ground Beef 1kg,Meat,4,9.28,5,35.26,Cash,Member,C111
+T3000151,2024-11-15,11:44:24,S001,Downtown,P1036,Ice Cream 1L,Frozen,2,5.29,20,8.46,Debit Card,Member,C116
+T3000152,2024-11-15,11:44:33,S005,Southgate,P1034,Hand Soap 300ml,Personal Care,4,3.41,0,13.64,Credit Card,Member,C104
+T3000153,2024-11-15,11:44:55,S001,Downtown,P1038,Eggs 12pk,Dairy,1,4.97,0,4.97,Debit Card,Non-Member,C113
+T3000154,2024-11-15,11:48:25,S001,Downtown,P1032,Toothpaste 100ml,Personal Care,1,3.62,20,2.9,Debit Card,Non-Member,C118
+T3000155,2024-11-15,11:48:27,S002,Westside Mall,P1007,Bagels 6pk,Bakery,1,4.78,0,4.78,Credit Card,Non-Member,C111
+T3000156,2024-11-15,11:48:35,S003,North Plaza,P1037,Frozen Veggies 1kg,Frozen,4,4.8,0,19.2,Mobile Wallet,Member,C111
+T3000157,2024-11-15,11:52:49,S004,East Market,P1001,Whole Milk 1L,Dairy,2,3.46,0,6.92,Mobile Wallet,Member,C101
+T3000158,2024-11-15,11:53:35,S001,Downtown,P1028,Tomato Sauce 500g,Pantry,3,3.02,0,9.06,Cash,Non-Member,C101
+T3000159,2024-11-15,11:55:05,S003,North Plaza,P1012,Chicken Breast 1kg,Meat,1,11.67,0,11.67,Gift Card,Member,C106
+T3000160,2024-11-15,11:55:38,S004,East Market,P1009,Apples 1kg,Produce,2,2.89,15,4.91,Debit Card,Member,C109
+T3000161,2024-11-15,11:55:46,S002,Westside Mall,P1034,Hand Soap 300ml,Personal Care,1,3.3,0,3.3,Gift Card,Member,C115
+T3000162,2024-11-15,11:56:38,S001,Downtown,P1023,Mixed Nuts 250g,Snacks,3,7.98,5,22.74,Credit Card,Non-Member,C112
+T3000163,2024-11-15,11:57:02,S004,East Market,P1036,Ice Cream 1L,Frozen,1,5.64,5,5.36,Cash,Member,C101
+T3000164,2024-11-15,11:58:03,S001,Downtown,P1034,Hand Soap 300ml,Personal Care,4,3.29,10,11.84,Gift Card,Non-Member,C118
+T3000165,2024-11-15,11:59:20,S004,East Market,P1027,Olive Oil 1L,Pantry,5,11.73,5,55.72,Gift Card,Member,C109
+T3000166,2024-11-15,12:01:14,S001,Downtown,P1033,Shampoo 400ml,Personal Care,2,7.13,0,14.26,Credit Card,Member,C104
+T3000167,2024-11-15,12:03:15,S003,North Plaza,P1033,Shampoo 400ml,Personal Care,4,6.87,0,27.48,Mobile Wallet,Member,C109
+T3000168,2024-11-15,12:06:21,S004,East Market,P1022,Chocolate Bar,Snacks,1,2.02,0,2.02,Cash,Member,C116
+T3000169,2024-11-15,12:09:37,S004,East Market,P1017,Cola 2L,Beverages,1,2.83,0,2.83,Cash,Member,C117
+T3000170,2024-11-15,12:11:27,S003,North Plaza,P1014,Salmon Fillet 500g,Seafood,4,14.86,0,59.44,Cash,Member,C117
+T3000171,2024-11-15,12:15:01,S002,Westside Mall,P1015,Shrimp 500g,Seafood,4,12.42,0,49.68,Gift Card,Member,C115
+T3000172,2024-11-15,12:16:51,S001,Downtown,P1005,White Bread Loaf,Bakery,4,2.52,0,10.08,Credit Card,Non-Member,C118
+T3000173,2024-11-15,12:18:36,S005,Southgate,P1024,Cookies 300g,Snacks,2,4.83,0,9.66,Credit Card,Non-Member,C115
+T3000174,2024-11-15,12:18:48,S003,North Plaza,P1016,Orange Juice 1L,Beverages,3,4.0,25,9.0,Credit Card,Member,C103
+T3000175,2024-11-15,12:21:45,S005,Southgate,P1007,Bagels 6pk,Bakery,1,4.87,10,4.38,Mobile Wallet,Non-Member,C117
+T3000176,2024-11-15,12:22:29,S005,Southgate,P1007,Bagels 6pk,Bakery,1,4.8,0,4.8,Gift Card,Member,C117
+T3000177,2024-11-15,12:25:07,S002,Westside Mall,P1013,Ground Beef 1kg,Meat,1,9.74,0,9.74,Debit Card,Member,C115
+T3000178,2024-11-15,12:25:10,S003,North Plaza,P1018,Mineral Water 1.5L,Beverages,2,1.14,0,2.28,Cash,Non-Member,C115
+T3000179,2024-11-15,12:25:14,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,1,3.58,5,3.4,Cash,Member,C101
+T3000180,2024-11-15,12:25:15,S004,East Market,P1038,Eggs 12pk,Dairy,3,5.13,5,14.62,Credit Card,Member,C108
+T3000181,2024-11-15,12:28:09,S001,Downtown,P1040,Honey 500g,Pantry,1,8.56,0,8.56,Debit Card,Member,C114
+T3000182,2024-11-15,12:30:10,S004,East Market,P1017,Cola 2L,Beverages,1,2.75,20,2.2,Credit Card,Member,C119
+T3000183,2024-11-15,12:31:05,S003,North Plaza,P1012,Chicken Breast 1kg,Meat,1,11.51,10,10.36,Credit Card,Member,C107
+T3000184,2024-11-15,12:32:13,S004,East Market,P1032,Toothpaste 100ml,Personal Care,3,3.79,0,11.37,Mobile Wallet,Member,C111
+T3000185,2024-11-15,12:32:36,S001,Downtown,P1031,Laundry Detergent 2L,Household,2,13.33,0,26.66,Gift Card,Member,C101
+T3000186,2024-11-15,12:35:21,S002,Westside Mall,P1021,Potato Chips 150g,Snacks,5,3.29,0,16.45,Gift Card,Non-Member,C107
+T3000187,2024-11-15,12:38:04,S003,North Plaza,P1040,Honey 500g,Pantry,1,8.65,0,8.65,Cash,Non-Member,C119
+T3000188,2024-11-15,12:38:04,S004,East Market,P1018,Mineral Water 1.5L,Beverages,2,1.25,0,2.5,Debit Card,Member,C113
+T3000189,2024-11-15,12:39:01,S003,North Plaza,P1022,Chocolate Bar,Snacks,4,2.2,0,8.8,Credit Card,Member,C110
+T3000190,2024-11-15,12:40:24,S003,North Plaza,P1017,Cola 2L,Beverages,4,2.67,15,9.08,Credit Card,Member,C112
+T3000191,2024-11-15,12:41:37,S001,Downtown,P1017,Cola 2L,Beverages,2,2.65,0,5.3,Mobile Wallet,Non-Member,C103
+T3000192,2024-11-15,12:41:45,S002,Westside Mall,P1031,Laundry Detergent 2L,Household,1,13.92,0,13.92,Mobile Wallet,Member,C108
+T3000193,2024-11-15,12:46:41,S003,North Plaza,P1020,Green Tea 25 bags,Beverages,1,4.47,20,3.58,Cash,Non-Member,C114
+T3000194,2024-11-15,12:49:50,S003,North Plaza,P1040,Honey 500g,Pantry,5,8.44,0,42.2,Debit Card,Member,C116
+T3000195,2024-11-15,12:51:31,S001,Downtown,P1011,Spinach 250g,Produce,3,2.16,25,4.86,Cash,Member,C114
+T3000196,2024-11-15,12:54:11,S005,Southgate,P1001,Whole Milk 1L,Dairy,2,3.36,0,6.72,Mobile Wallet,Member,C115
+T3000197,2024-11-15,12:58:03,S003,North Plaza,P1021,Potato Chips 150g,Snacks,4,3.22,0,12.88,Debit Card,Member,C108
+T3000198,2024-11-15,12:58:07,S005,Southgate,P1028,Tomato Sauce 500g,Pantry,2,3.22,15,5.47,Cash,Member,C114
+T3000199,2024-11-15,12:58:11,S001,Downtown,P1037,Frozen Veggies 1kg,Frozen,1,4.52,15,3.84,Debit Card,Member,C102
+T3000200,2024-11-15,12:58:26,S002,Westside Mall,P1037,Frozen Veggies 1kg,Frozen,2,4.6,0,9.2,Cash,Non-Member,C109
+T3000201,2024-11-15,13:01:26,S005,Southgate,P1019,Coffee Beans 500g,Beverages,3,13.04,0,39.12,Gift Card,Non-Member,C103
+T3000202,2024-11-15,13:06:58,S002,Westside Mall,P1029,Dish Soap 750ml,Household,1,4.19,5,3.98,Debit Card,Non-Member,C117
+T3000203,2024-11-15,13:08:25,S002,Westside Mall,P1040,Honey 500g,Pantry,1,8.54,0,8.54,Gift Card,Member,C119
+T3000204,2024-11-15,13:11:24,S004,East Market,P1040,Honey 500g,Pantry,1,8.21,10,7.39,Credit Card,Member,C109
+T3000205,2024-11-15,13:12:53,S002,Westside Mall,P1014,Salmon Fillet 500g,Seafood,1,15.61,10,14.05,Gift Card,Member,C111
+T3000206,2024-11-15,13:13:41,S004,East Market,P1025,Pasta 500g,Pantry,6,2.25,0,13.5,Credit Card,Non-Member,C112
+T3000207,2024-11-15,13:13:51,S003,North Plaza,P1013,Ground Beef 1kg,Meat,1,9.68,0,9.68,Mobile Wallet,Member,C106
+T3000208,2024-11-15,13:14:52,S005,Southgate,P1011,Spinach 250g,Produce,3,2.19,15,5.58,Debit Card,Member,C114
+T3000209,2024-11-15,13:15:19,S003,North Plaza,P1008,Bananas 1kg,Produce,1,1.31,15,1.11,Gift Card,Non-Member,C110
+T3000210,2024-11-15,13:15:31,S004,East Market,P1003,Greek Yogurt 500g,Dairy,2,4.39,10,7.9,Mobile Wallet,Member,C102
+T3000211,2024-11-15,13:19:53,S003,North Plaza,P1018,Mineral Water 1.5L,Beverages,2,1.19,10,2.14,Gift Card,Non-Member,C110
+T3000212,2024-11-15,13:21:34,S003,North Plaza,P1003,Greek Yogurt 500g,Dairy,3,4.12,10,11.12,Credit Card,Member,C101
+T3000213,2024-11-15,13:22:03,S003,North Plaza,P1014,Salmon Fillet 500g,Seafood,1,14.39,0,14.39,Mobile Wallet,Member,C106
+T3000214,2024-11-15,13:23:19,S001,Downtown,P1025,Pasta 500g,Pantry,2,2.27,15,3.86,Cash,Member,C110
+T3000215,2024-11-15,13:23:51,S004,East Market,P1025,Pasta 500g,Pantry,3,2.1,5,5.99,Gift Card,Non-Member,C114
+T3000216,2024-11-15,13:25:28,S001,Downtown,P1021,Potato Chips 150g,Snacks,1,3.34,5,3.17,Gift Card,Non-Member,C108
+T3000217,2024-11-15,13:26:24,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,3,3.57,15,9.1,Gift Card,Non-Member,C115
+T3000218,2024-11-15,13:26:47,S005,Southgate,P1023,Mixed Nuts 250g,Snacks,3,7.6,0,22.8,Cash,Non-Member,C115
+T3000219,2024-11-15,13:27:23,S005,Southgate,P1037,Frozen Veggies 1kg,Frozen,1,4.98,15,4.23,Credit Card,Member,C102
+T3000220,2024-11-15,13:28:44,S002,Westside Mall,P1024,Cookies 300g,Snacks,1,4.65,0,4.65,Cash,Non-Member,C102
+T3000221,2024-11-15,13:34:03,S001,Downtown,P1035,Frozen Pizza,Frozen,6,6.66,0,39.96,Mobile Wallet,Non-Member,C117
+T3000222,2024-11-15,13:34:24,S003,North Plaza,P1039,Cereal 500g,Pantry,2,5.42,5,10.3,Mobile Wallet,Non-Member,C101
+T3000223,2024-11-15,13:36:49,S001,Downtown,P1009,Apples 1kg,Produce,2,3.08,10,5.54,Gift Card,Non-Member,C120
+T3000224,2024-11-15,13:38:56,S004,East Market,P1036,Ice Cream 1L,Frozen,1,5.3,0,5.3,Gift Card,Member,C107
+T3000225,2024-11-15,13:39:20,S003,North Plaza,P1002,Cheddar Cheese 200g,Dairy,1,5.96,5,5.66,Debit Card,Member,C117
+T3000226,2024-11-15,13:39:56,S004,East Market,P1019,Coffee Beans 500g,Beverages,4,13.28,0,53.12,Debit Card,Member,C106
+T3000227,2024-11-15,13:40:48,S005,Southgate,P1009,Apples 1kg,Produce,3,2.85,10,7.7,Debit Card,Non-Member,C114
+T3000228,2024-11-15,13:41:15,S002,Westside Mall,P1035,Frozen Pizza,Frozen,1,7.1,0,7.1,Mobile Wallet,Member,C105
+T3000229,2024-11-15,13:41:51,S004,East Market,P1010,Tomatoes 1kg,Produce,1,3.5,10,3.15,Debit Card,Member,C117
+T3000230,2024-11-15,13:42:07,S003,North Plaza,P1016,Orange Juice 1L,Beverages,1,4.05,0,4.05,Debit Card,Non-Member,C105
+T3000231,2024-11-15,13:42:45,S005,Southgate,P1005,White Bread Loaf,Bakery,1,2.62,15,2.23,Mobile Wallet,Non-Member,C109
+T3000232,2024-11-15,13:44:20,S001,Downtown,P1029,Dish Soap 750ml,Household,3,4.09,0,12.27,Gift Card,Member,C116
+T3000233,2024-11-15,13:46:55,S005,Southgate,P1033,Shampoo 400ml,Personal Care,4,7.46,0,29.84,Credit Card,Member,C107
+T3000234,2024-11-15,13:48:34,S005,Southgate,P1016,Orange Juice 1L,Beverages,6,3.94,10,21.28,Cash,Member,C119
+T3000235,2024-11-15,13:49:18,S003,North Plaza,P1027,Olive Oil 1L,Pantry,2,10.88,0,21.76,Credit Card,Non-Member,C116
+T3000236,2024-11-15,13:54:24,S002,Westside Mall,P1031,Laundry Detergent 2L,Household,3,14.16,0,42.48,Mobile Wallet,Member,C117
+T3000237,2024-11-15,13:55:58,S002,Westside Mall,P1030,Paper Towels 6pk,Household,1,8.99,5,8.54,Credit Card,Member,C103
+T3000238,2024-11-15,13:57:18,S004,East Market,P1009,Apples 1kg,Produce,5,2.94,0,14.7,Mobile Wallet,Member,C118
+T3000239,2024-11-15,13:58:15,S003,North Plaza,P1019,Coffee Beans 500g,Beverages,1,13.11,20,10.49,Gift Card,Member,C110
+T3000240,2024-11-15,13:58:53,S002,Westside Mall,P1022,Chocolate Bar,Snacks,6,2.2,15,11.22,Mobile Wallet,Member,C105
+T3000241,2024-11-15,14:01:34,S004,East Market,P1010,Tomatoes 1kg,Produce,1,3.57,5,3.39,Debit Card,Member,C116
+T3000242,2024-11-15,14:02:44,S001,Downtown,P1039,Cereal 500g,Pantry,2,5.13,5,9.75,Debit Card,Member,C102
+T3000243,2024-11-15,14:05:42,S003,North Plaza,P1007,Bagels 6pk,Bakery,3,5.19,0,15.57,Debit Card,Member,C102
+T3000244,2024-11-15,14:05:43,S004,East Market,P1023,Mixed Nuts 250g,Snacks,1,8.31,10,7.48,Mobile Wallet,Member,C103
+T3000245,2024-11-15,14:05:52,S005,Southgate,P1009,Apples 1kg,Produce,3,3.13,15,7.98,Mobile Wallet,Non-Member,C117
+T3000246,2024-11-15,14:06:54,S003,North Plaza,P1010,Tomatoes 1kg,Produce,2,3.57,0,7.14,Debit Card,Non-Member,C103
+T3000247,2024-11-15,14:09:51,S003,North Plaza,P1034,Hand Soap 300ml,Personal Care,1,3.28,0,3.28,Debit Card,Member,C111
+T3000248,2024-11-15,14:10:19,S004,East Market,P1031,Laundry Detergent 2L,Household,1,13.03,0,13.03,Gift Card,Member,C107
+T3000249,2024-11-15,14:11:05,S001,Downtown,P1031,Laundry Detergent 2L,Household,1,13.47,0,13.47,Cash,Member,C120
+T3000250,2024-11-15,14:13:01,S005,Southgate,P1026,Rice 2kg,Pantry,3,6.77,0,20.31,Mobile Wallet,Non-Member,C109
+T3000251,2024-11-15,14:13:02,S005,Southgate,P1018,Mineral Water 1.5L,Beverages,1,1.16,10,1.04,Gift Card,Member,C104
+T3000252,2024-11-15,14:13:13,S005,Southgate,P1009,Apples 1kg,Produce,5,2.95,0,14.75,Cash,Member,C106
+T3000253,2024-11-15,14:13:13,S001,Downtown,P1039,Cereal 500g,Pantry,3,5.43,0,16.29,Debit Card,Member,C109
+T3000254,2024-11-15,14:13:42,S005,Southgate,P1032,Toothpaste 100ml,Personal Care,3,3.72,0,11.16,Mobile Wallet,Member,C110
+T3000255,2024-11-15,14:13:46,S003,North Plaza,P1011,Spinach 250g,Produce,3,2.29,0,6.87,Credit Card,Member,C110
+T3000256,2024-11-15,14:13:57,S002,Westside Mall,P1032,Toothpaste 100ml,Personal Care,2,3.64,0,7.28,Cash,Non-Member,C101
+T3000257,2024-11-15,14:16:00,S003,North Plaza,P1003,Greek Yogurt 500g,Dairy,3,4.38,5,12.48,Gift Card,Member,C108
+T3000258,2024-11-15,14:16:41,S003,North Plaza,P1018,Mineral Water 1.5L,Beverages,4,1.17,0,4.68,Gift Card,Member,C104
+T3000259,2024-11-15,14:16:56,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,3,3.42,25,7.7,Credit Card,Member,C101
+T3000260,2024-11-15,14:18:20,S005,Southgate,P1034,Hand Soap 300ml,Personal Care,2,3.54,15,6.02,Mobile Wallet,Member,C106
+T3000261,2024-11-15,14:19:02,S002,Westside Mall,P1017,Cola 2L,Beverages,2,2.85,0,5.7,Credit Card,Non-Member,C117
+T3000262,2024-11-15,14:19:47,S005,Southgate,P1037,Frozen Veggies 1kg,Frozen,1,4.87,0,4.87,Debit Card,Non-Member,C102
+T3000263,2024-11-15,14:23:03,S005,Southgate,P1039,Cereal 500g,Pantry,1,5.27,0,5.27,Credit Card,Member,C106
+T3000264,2024-11-15,14:25:27,S003,North Plaza,P1009,Apples 1kg,Produce,1,2.97,20,2.38,Mobile Wallet,Member,C101
+T3000265,2024-11-15,14:30:02,S001,Downtown,P1034,Hand Soap 300ml,Personal Care,1,3.54,0,3.54,Debit Card,Member,C114
+T3000266,2024-11-15,14:30:10,S004,East Market,P1007,Bagels 6pk,Bakery,1,5.12,0,5.12,Cash,Member,C112
+T3000267,2024-11-15,14:32:40,S002,Westside Mall,P1011,Spinach 250g,Produce,4,2.23,0,8.92,Debit Card,Member,C109
+T3000268,2024-11-15,14:33:42,S004,East Market,P1008,Bananas 1kg,Produce,4,1.27,0,5.08,Mobile Wallet,Member,C112
+T3000269,2024-11-15,14:36:24,S005,Southgate,P1010,Tomatoes 1kg,Produce,1,3.47,10,3.12,Debit Card,Member,C103
+T3000270,2024-11-15,14:37:52,S004,East Market,P1004,Butter 250g,Dairy,1,4.77,0,4.77,Cash,Member,C106
+T3000271,2024-11-15,14:40:09,S002,Westside Mall,P1034,Hand Soap 300ml,Personal Care,2,3.3,0,6.6,Cash,Non-Member,C108
+T3000272,2024-11-15,14:40:23,S003,North Plaza,P1008,Bananas 1kg,Produce,1,1.33,0,1.33,Debit Card,Non-Member,C101
+T3000273,2024-11-15,14:41:20,S002,Westside Mall,P1021,Potato Chips 150g,Snacks,1,3.36,0,3.36,Mobile Wallet,Member,C120
+T3000274,2024-11-15,14:42:42,S002,Westside Mall,P1022,Chocolate Bar,Snacks,2,2.1,0,4.2,Credit Card,Non-Member,C105
+T3000275,2024-11-15,14:45:18,S003,North Plaza,P1013,Ground Beef 1kg,Meat,3,9.74,0,29.22,Credit Card,Member,C119
+T3000276,2024-11-15,14:45:47,S003,North Plaza,P1038,Eggs 12pk,Dairy,5,5.08,0,25.4,Cash,Member,C115
+T3000277,2024-11-15,14:45:59,S003,North Plaza,P1026,Rice 2kg,Pantry,3,6.71,0,20.13,Gift Card,Non-Member,C115
+T3000278,2024-11-15,14:46:02,S003,North Plaza,P1004,Butter 250g,Dairy,4,4.74,10,17.06,Gift Card,Non-Member,C116
+T3000279,2024-11-15,14:48:41,S002,Westside Mall,P1025,Pasta 500g,Pantry,1,2.27,10,2.04,Cash,Non-Member,C108
+T3000280,2024-11-15,14:49:36,S001,Downtown,P1015,Shrimp 500g,Seafood,1,11.87,0,11.87,Cash,Non-Member,C102
+T3000281,2024-11-15,14:51:06,S005,Southgate,P1033,Shampoo 400ml,Personal Care,1,7.39,0,7.39,Credit Card,Member,C119
+T3000282,2024-11-15,14:51:26,S001,Downtown,P1007,Bagels 6pk,Bakery,2,5.21,20,8.34,Mobile Wallet,Non-Member,C105
+T3000283,2024-11-15,14:53:28,S004,East Market,P1034,Hand Soap 300ml,Personal Care,1,3.35,0,3.35,Gift Card,Member,C105
+T3000284,2024-11-15,14:54:15,S004,East Market,P1032,Toothpaste 100ml,Personal Care,1,3.91,0,3.91,Debit Card,Member,C106
+T3000285,2024-11-15,14:56:18,S005,Southgate,P1024,Cookies 300g,Snacks,3,4.75,0,14.25,Credit Card,Member,C120
+T3000286,2024-11-15,14:56:41,S002,Westside Mall,P1007,Bagels 6pk,Bakery,1,4.89,0,4.89,Mobile Wallet,Member,C110
+T3000287,2024-11-15,14:57:27,S001,Downtown,P1011,Spinach 250g,Produce,1,2.36,15,2.01,Debit Card,Member,C118
+T3000288,2024-11-15,14:58:00,S003,North Plaza,P1019,Coffee Beans 500g,Beverages,2,13.41,25,20.12,Gift Card,Non-Member,C113
+T3000289,2024-11-15,14:58:04,S003,North Plaza,P1022,Chocolate Bar,Snacks,1,2.1,5,1.99,Credit Card,Member,C107
+T3000290,2024-11-15,15:01:21,S003,North Plaza,P1004,Butter 250g,Dairy,4,4.77,0,19.08,Debit Card,Member,C108
+T3000291,2024-11-15,15:02:30,S002,Westside Mall,P1005,White Bread Loaf,Bakery,5,2.4,0,12.0,Debit Card,Member,C104
+T3000292,2024-11-15,15:05:07,S001,Downtown,P1022,Chocolate Bar,Snacks,4,2.09,0,8.36,Cash,Member,C103
+T3000293,2024-11-15,15:06:34,S005,Southgate,P1027,Olive Oil 1L,Pantry,1,11.11,0,11.11,Mobile Wallet,Member,C120
+T3000294,2024-11-15,15:07:32,S005,Southgate,P1003,Greek Yogurt 500g,Dairy,1,4.29,0,4.29,Cash,Member,C111
+T3000295,2024-11-15,15:07:53,S002,Westside Mall,P1014,Salmon Fillet 500g,Seafood,1,15.4,15,13.09,Mobile Wallet,Member,C107
+T3000296,2024-11-15,15:12:06,S003,North Plaza,P1021,Potato Chips 150g,Snacks,3,3.23,0,9.69,Debit Card,Non-Member,C119
+T3000297,2024-11-15,15:16:02,S005,Southgate,P1018,Mineral Water 1.5L,Beverages,3,1.15,0,3.45,Cash,Member,C106
+T3000298,2024-11-15,15:16:32,S004,East Market,P1013,Ground Beef 1kg,Meat,1,9.22,0,9.22,Cash,Non-Member,C101
+T3000299,2024-11-15,15:17:44,S005,Southgate,P1002,Cheddar Cheese 200g,Dairy,2,6.25,0,12.5,Gift Card,Member,C118
+T3000300,2024-11-15,15:18:54,S001,Downtown,P1017,Cola 2L,Beverages,3,2.81,0,8.43,Credit Card,Member,C120
+T3000301,2024-11-15,15:19:47,S003,North Plaza,P1027,Olive Oil 1L,Pantry,6,11.79,0,70.74,Debit Card,Member,C101
+T3000302,2024-11-15,15:20:08,S003,North Plaza,P1025,Pasta 500g,Pantry,6,2.29,15,11.68,Debit Card,Member,C109
+T3000303,2024-11-15,15:20:59,S002,Westside Mall,P1038,Eggs 12pk,Dairy,3,4.83,0,14.49,Mobile Wallet,Member,C115
+T3000304,2024-11-15,15:21:53,S003,North Plaza,P1007,Bagels 6pk,Bakery,1,5.01,0,5.01,Cash,Member,C114
+T3000305,2024-11-15,15:23:26,S003,North Plaza,P1009,Apples 1kg,Produce,6,2.95,0,17.7,Credit Card,Member,C111
+T3000306,2024-11-15,15:24:29,S002,Westside Mall,P1026,Rice 2kg,Pantry,2,6.45,10,11.61,Debit Card,Member,C113
+T3000307,2024-11-15,15:24:47,S001,Downtown,P1016,Orange Juice 1L,Beverages,3,4.08,20,9.79,Debit Card,Member,C116
+T3000308,2024-11-15,15:25:32,S001,Downtown,P1005,White Bread Loaf,Bakery,4,2.4,5,9.12,Credit Card,Non-Member,C105
+T3000309,2024-11-15,15:27:46,S004,East Market,P1002,Cheddar Cheese 200g,Dairy,1,5.92,0,5.92,Mobile Wallet,Non-Member,C103
+T3000310,2024-11-15,15:28:14,S003,North Plaza,P1007,Bagels 6pk,Bakery,1,4.91,0,4.91,Credit Card,Member,C109
+T3000311,2024-11-15,15:29:15,S003,North Plaza,P1009,Apples 1kg,Produce,4,2.93,0,11.72,Gift Card,Member,C108
+T3000312,2024-11-15,15:29:23,S004,East Market,P1028,Tomato Sauce 500g,Pantry,1,3.01,0,3.01,Cash,Non-Member,C112
+T3000313,2024-11-15,15:29:59,S005,Southgate,P1026,Rice 2kg,Pantry,1,6.18,20,4.94,Gift Card,Member,C109
+T3000314,2024-11-15,15:30:30,S003,North Plaza,P1016,Orange Juice 1L,Beverages,4,4.13,0,16.52,Credit Card,Member,C113
+T3000315,2024-11-15,15:30:35,S003,North Plaza,P1030,Paper Towels 6pk,Household,2,9.43,0,18.86,Gift Card,Member,C108
+T3000316,2024-11-15,15:32:54,S005,Southgate,P1032,Toothpaste 100ml,Personal Care,1,3.85,0,3.85,Mobile Wallet,Non-Member,C117
+T3000317,2024-11-15,15:33:00,S005,Southgate,P1037,Frozen Veggies 1kg,Frozen,2,4.89,0,9.78,Credit Card,Non-Member,C111
+T3000318,2024-11-15,15:34:59,S003,North Plaza,P1011,Spinach 250g,Produce,5,2.18,0,10.9,Cash,Member,C107
+T3000319,2024-11-15,15:35:48,S001,Downtown,P1018,Mineral Water 1.5L,Beverages,1,1.24,0,1.24,Debit Card,Non-Member,C105
+T3000320,2024-11-15,15:38:14,S005,Southgate,P1017,Cola 2L,Beverages,3,2.69,0,8.07,Debit Card,Member,C111
+T3000321,2024-11-15,15:40:55,S005,Southgate,P1005,White Bread Loaf,Bakery,2,2.41,15,4.1,Debit Card,Non-Member,C104
+T3000322,2024-11-15,15:42:24,S003,North Plaza,P1007,Bagels 6pk,Bakery,3,4.98,5,14.19,Mobile Wallet,Non-Member,C104
+T3000323,2024-11-15,15:42:34,S001,Downtown,P1002,Cheddar Cheese 200g,Dairy,2,5.79,5,11.0,Debit Card,Member,C116
+T3000324,2024-11-15,15:42:36,S004,East Market,P1038,Eggs 12pk,Dairy,2,5.03,0,10.06,Debit Card,Non-Member,C103
+T3000325,2024-11-15,15:44:03,S005,Southgate,P1028,Tomato Sauce 500g,Pantry,5,3.12,0,15.6,Mobile Wallet,Non-Member,C116
+T3000326,2024-11-15,15:44:16,S002,Westside Mall,P1017,Cola 2L,Beverages,3,2.75,0,8.25,Gift Card,Member,C102
+T3000327,2024-11-15,15:46:56,S002,Westside Mall,P1030,Paper Towels 6pk,Household,6,8.82,5,50.27,Mobile Wallet,Member,C112
+T3000328,2024-11-15,15:47:01,S005,Southgate,P1021,Potato Chips 150g,Snacks,1,3.22,5,3.06,Mobile Wallet,Non-Member,C119
+T3000329,2024-11-15,15:47:06,S001,Downtown,P1011,Spinach 250g,Produce,1,2.16,5,2.05,Credit Card,Non-Member,C114
+T3000330,2024-11-15,15:47:50,S001,Downtown,P1026,Rice 2kg,Pantry,1,6.48,0,6.48,Mobile Wallet,Non-Member,C106
+T3000331,2024-11-15,15:48:02,S002,Westside Mall,P1037,Frozen Veggies 1kg,Frozen,2,4.52,0,9.04,Cash,Member,C107
+T3000332,2024-11-15,15:50:49,S004,East Market,P1007,Bagels 6pk,Bakery,2,4.9,0,9.8,Debit Card,Non-Member,C102
+T3000333,2024-11-15,15:51:53,S002,Westside Mall,P1026,Rice 2kg,Pantry,1,6.2,25,4.65,Gift Card,Member,C117
+T3000334,2024-11-15,15:55:24,S001,Downtown,P1003,Greek Yogurt 500g,Dairy,2,4.33,0,8.66,Cash,Non-Member,C109
+T3000335,2024-11-15,15:57:09,S005,Southgate,P1015,Shrimp 500g,Seafood,1,12.92,20,10.34,Cash,Non-Member,C117
+T3000336,2024-11-15,15:57:24,S004,East Market,P1032,Toothpaste 100ml,Personal Care,4,3.81,0,15.24,Cash,Non-Member,C103
+T3000337,2024-11-15,15:57:52,S002,Westside Mall,P1005,White Bread Loaf,Bakery,1,2.38,0,2.38,Gift Card,Member,C106
+T3000338,2024-11-15,15:59:05,S002,Westside Mall,P1002,Cheddar Cheese 200g,Dairy,1,5.81,10,5.23,Gift Card,Member,C105
+T3000339,2024-11-15,16:00:00,S001,Downtown,P1036,Ice Cream 1L,Frozen,1,5.25,0,5.25,Debit Card,Member,C101
+T3000340,2024-11-15,16:00:50,S003,North Plaza,P1019,Coffee Beans 500g,Beverages,1,13.31,0,13.31,Gift Card,Non-Member,C107
+T3000341,2024-11-15,16:02:42,S005,Southgate,P1008,Bananas 1kg,Produce,3,1.34,0,4.02,Gift Card,Non-Member,C119
+T3000342,2024-11-15,16:03:46,S001,Downtown,P1019,Coffee Beans 500g,Beverages,3,12.76,0,38.28,Credit Card,Member,C103
+T3000343,2024-11-15,16:10:09,S001,Downtown,P1029,Dish Soap 750ml,Household,1,4.07,0,4.07,Gift Card,Non-Member,C102
+T3000344,2024-11-15,16:12:10,S003,North Plaza,P1036,Ice Cream 1L,Frozen,1,5.25,0,5.25,Gift Card,Member,C108
+T3000345,2024-11-15,16:13:26,S001,Downtown,P1030,Paper Towels 6pk,Household,1,8.57,5,8.14,Cash,Member,C103
+T3000346,2024-11-15,16:17:03,S005,Southgate,P1011,Spinach 250g,Produce,1,2.14,10,1.93,Cash,Member,C117
+T3000347,2024-11-15,16:17:11,S003,North Plaza,P1028,Tomato Sauce 500g,Pantry,1,3.1,10,2.79,Debit Card,Member,C101
+T3000348,2024-11-15,16:17:30,S004,East Market,P1025,Pasta 500g,Pantry,1,2.15,25,1.61,Debit Card,Non-Member,C118
+T3000349,2024-11-15,16:17:54,S001,Downtown,P1029,Dish Soap 750ml,Household,1,4.31,0,4.31,Credit Card,Non-Member,C101
+T3000350,2024-11-15,16:25:48,S001,Downtown,P1021,Potato Chips 150g,Snacks,2,3.38,10,6.08,Gift Card,Non-Member,C110
+T3000351,2024-11-15,16:29:39,S001,Downtown,P1027,Olive Oil 1L,Pantry,2,10.92,15,18.56,Debit Card,Non-Member,C101
+T3000352,2024-11-15,16:30:25,S001,Downtown,P1015,Shrimp 500g,Seafood,2,12.79,15,21.74,Gift Card,Non-Member,C105
+T3000353,2024-11-15,16:30:41,S004,East Market,P1011,Spinach 250g,Produce,2,2.33,0,4.66,Gift Card,Non-Member,C109
+T3000354,2024-11-15,16:31:51,S001,Downtown,P1021,Potato Chips 150g,Snacks,2,3.32,0,6.64,Credit Card,Member,C101
+T3000355,2024-11-15,16:32:19,S003,North Plaza,P1017,Cola 2L,Beverages,1,2.89,0,2.89,Mobile Wallet,Member,C106
+T3000356,2024-11-15,16:33:39,S002,Westside Mall,P1031,Laundry Detergent 2L,Household,3,13.28,25,29.88,Cash,Member,C109
+T3000357,2024-11-15,16:38:38,S003,North Plaza,P1021,Potato Chips 150g,Snacks,1,3.15,0,3.15,Cash,Member,C104
+T3000358,2024-11-15,16:38:53,S004,East Market,P1018,Mineral Water 1.5L,Beverages,3,1.15,10,3.1,Gift Card,Member,C117
+T3000359,2024-11-15,16:39:27,S002,Westside Mall,P1040,Honey 500g,Pantry,5,8.17,10,36.77,Credit Card,Member,C113
+T3000360,2024-11-15,16:41:04,S004,East Market,P1016,Orange Juice 1L,Beverages,1,4.0,10,3.6,Mobile Wallet,Member,C105
+T3000361,2024-11-15,16:42:10,S005,Southgate,P1003,Greek Yogurt 500g,Dairy,2,4.26,0,8.52,Credit Card,Non-Member,C111
+T3000362,2024-11-15,16:45:49,S002,Westside Mall,P1038,Eggs 12pk,Dairy,2,4.75,10,8.55,Gift Card,Non-Member,C112
+T3000363,2024-11-15,16:46:07,S005,Southgate,P1033,Shampoo 400ml,Personal Care,2,7.56,10,13.61,Gift Card,Non-Member,C120
+T3000364,2024-11-15,16:46:37,S004,East Market,P1027,Olive Oil 1L,Pantry,2,10.83,20,17.33,Debit Card,Non-Member,C107
+T3000365,2024-11-15,16:49:06,S001,Downtown,P1017,Cola 2L,Beverages,4,2.85,0,11.4,Mobile Wallet,Non-Member,C120
+T3000366,2024-11-15,16:51:28,S004,East Market,P1001,Whole Milk 1L,Dairy,4,3.43,0,13.72,Mobile Wallet,Non-Member,C111
+T3000367,2024-11-15,16:52:14,S005,Southgate,P1015,Shrimp 500g,Seafood,3,12.76,5,36.37,Mobile Wallet,Member,C102
+T3000368,2024-11-15,16:54:14,S004,East Market,P1020,Green Tea 25 bags,Beverages,2,4.34,10,7.81,Mobile Wallet,Member,C112
+T3000369,2024-11-15,16:54:46,S004,East Market,P1019,Coffee Beans 500g,Beverages,2,12.51,0,25.02,Credit Card,Member,C103
+T3000370,2024-11-15,16:54:50,S001,Downtown,P1013,Ground Beef 1kg,Meat,6,9.57,5,54.55,Credit Card,Non-Member,C102
+T3000371,2024-11-15,16:57:27,S005,Southgate,P1029,Dish Soap 750ml,Household,3,4.25,5,12.11,Debit Card,Member,C112
+T3000372,2024-11-15,17:00:52,S003,North Plaza,P1007,Bagels 6pk,Bakery,2,4.76,25,7.14,Credit Card,Non-Member,C113
+T3000373,2024-11-15,17:01:10,S001,Downtown,P1027,Olive Oil 1L,Pantry,1,11.17,5,10.61,Gift Card,Member,C110
+T3000374,2024-11-15,17:01:28,S001,Downtown,P1011,Spinach 250g,Produce,3,2.17,20,5.21,Mobile Wallet,Member,C114
+T3000375,2024-11-15,17:04:49,S004,East Market,P1025,Pasta 500g,Pantry,6,2.29,5,13.05,Debit Card,Member,C117
+T3000376,2024-11-15,17:07:38,S003,North Plaza,P1011,Spinach 250g,Produce,1,2.21,5,2.1,Credit Card,Member,C111
+T3000377,2024-11-15,17:12:15,S002,Westside Mall,P1016,Orange Juice 1L,Beverages,1,3.95,0,3.95,Debit Card,Member,C109
+T3000378,2024-11-15,17:12:27,S003,North Plaza,P1034,Hand Soap 300ml,Personal Care,2,3.36,5,6.38,Cash,Member,C119
+T3000379,2024-11-15,17:13:36,S003,North Plaza,P1021,Potato Chips 150g,Snacks,2,3.34,5,6.35,Credit Card,Member,C107
+T3000380,2024-11-15,17:15:09,S003,North Plaza,P1010,Tomatoes 1kg,Produce,1,3.5,0,3.5,Debit Card,Member,C110
+T3000381,2024-11-15,17:17:20,S002,Westside Mall,P1026,Rice 2kg,Pantry,1,6.53,0,6.53,Debit Card,Non-Member,C111
+T3000382,2024-11-15,17:18:17,S004,East Market,P1014,Salmon Fillet 500g,Seafood,1,14.47,5,13.75,Gift Card,Member,C113
+T3000383,2024-11-15,17:18:58,S004,East Market,P1034,Hand Soap 300ml,Personal Care,1,3.41,0,3.41,Credit Card,Member,C112
+T3000384,2024-11-15,17:19:21,S001,Downtown,P1028,Tomato Sauce 500g,Pantry,3,3.29,0,9.87,Mobile Wallet,Member,C110
+T3000385,2024-11-15,17:19:51,S003,North Plaza,P1032,Toothpaste 100ml,Personal Care,6,3.93,0,23.58,Debit Card,Member,C105
+T3000386,2024-11-15,17:19:58,S003,North Plaza,P1011,Spinach 250g,Produce,1,2.35,0,2.35,Gift Card,Non-Member,C118
+T3000387,2024-11-15,17:21:56,S005,Southgate,P1034,Hand Soap 300ml,Personal Care,5,3.55,15,15.09,Mobile Wallet,Member,C120
+T3000388,2024-11-15,17:23:45,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,1,3.5,15,2.98,Debit Card,Member,C106
+T3000389,2024-11-15,17:25:58,S004,East Market,P1015,Shrimp 500g,Seafood,3,11.87,0,35.61,Mobile Wallet,Member,C102
+T3000390,2024-11-15,17:27:55,S003,North Plaza,P1038,Eggs 12pk,Dairy,1,4.85,10,4.37,Mobile Wallet,Non-Member,C102
+T3000391,2024-11-15,17:30:14,S001,Downtown,P1008,Bananas 1kg,Produce,2,1.29,10,2.32,Mobile Wallet,Member,C104
+T3000392,2024-11-15,17:30:29,S005,Southgate,P1020,Green Tea 25 bags,Beverages,1,4.3,5,4.08,Cash,Member,C102
+T3000393,2024-11-15,17:32:09,S002,Westside Mall,P1011,Spinach 250g,Produce,1,2.32,0,2.32,Cash,Member,C109
+T3000394,2024-11-15,17:32:28,S004,East Market,P1021,Potato Chips 150g,Snacks,3,3.27,10,8.83,Debit Card,Member,C108
+T3000395,2024-11-15,17:34:21,S001,Downtown,P1013,Ground Beef 1kg,Meat,5,9.27,0,46.35,Mobile Wallet,Non-Member,C120
+T3000396,2024-11-15,17:34:30,S003,North Plaza,P1011,Spinach 250g,Produce,4,2.16,5,8.21,Debit Card,Member,C103
+T3000397,2024-11-15,17:34:47,S003,North Plaza,P1016,Orange Juice 1L,Beverages,1,4.03,0,4.03,Credit Card,Member,C109
+T3000398,2024-11-15,17:34:48,S003,North Plaza,P1037,Frozen Veggies 1kg,Frozen,1,4.61,0,4.61,Debit Card,Member,C110
+T3000399,2024-11-15,17:36:22,S005,Southgate,P1013,Ground Beef 1kg,Meat,3,9.62,25,21.64,Cash,Member,C120
+T3000400,2024-11-15,17:36:44,S005,Southgate,P1012,Chicken Breast 1kg,Meat,2,12.29,5,23.35,Mobile Wallet,Non-Member,C116
+T3000401,2024-11-15,17:38:39,S002,Westside Mall,P1019,Coffee Beans 500g,Beverages,4,12.5,15,42.5,Cash,Non-Member,C102
+T3000402,2024-11-15,17:39:32,S004,East Market,P1027,Olive Oil 1L,Pantry,1,10.9,0,10.9,Cash,Member,C114
+T3000403,2024-11-15,17:39:40,S003,North Plaza,P1038,Eggs 12pk,Dairy,2,5.14,5,9.77,Mobile Wallet,Non-Member,C119
+T3000404,2024-11-15,17:41:24,S005,Southgate,P1035,Frozen Pizza,Frozen,2,6.69,20,10.7,Debit Card,Non-Member,C113
+T3000405,2024-11-15,17:43:04,S003,North Plaza,P1038,Eggs 12pk,Dairy,5,5.13,5,24.37,Gift Card,Member,C111
+T3000406,2024-11-15,17:44:35,S004,East Market,P1033,Shampoo 400ml,Personal Care,3,7.19,15,18.33,Gift Card,Member,C119
+T3000407,2024-11-15,17:46:23,S004,East Market,P1008,Bananas 1kg,Produce,2,1.24,15,2.11,Mobile Wallet,Non-Member,C109
+T3000408,2024-11-15,17:46:40,S005,Southgate,P1030,Paper Towels 6pk,Household,1,8.58,0,8.58,Cash,Member,C103
+T3000409,2024-11-15,17:47:44,S004,East Market,P1014,Salmon Fillet 500g,Seafood,2,14.49,0,28.98,Cash,Non-Member,C108
+T3000410,2024-11-15,17:48:50,S004,East Market,P1008,Bananas 1kg,Produce,4,1.24,10,4.46,Cash,Non-Member,C112
+T3000411,2024-11-15,17:51:05,S003,North Plaza,P1022,Chocolate Bar,Snacks,1,2.06,5,1.96,Credit Card,Member,C110
+T3000412,2024-11-15,17:54:31,S004,East Market,P1003,Greek Yogurt 500g,Dairy,1,4.17,15,3.54,Credit Card,Non-Member,C104
+T3000413,2024-11-15,17:55:44,S005,Southgate,P1035,Frozen Pizza,Frozen,1,7.28,10,6.55,Gift Card,Member,C118
+T3000414,2024-11-15,17:57:37,S003,North Plaza,P1006,Croissant Pack,Bakery,6,6.65,0,39.9,Mobile Wallet,Non-Member,C112
+T3000415,2024-11-15,17:58:23,S005,Southgate,P1015,Shrimp 500g,Seafood,1,12.51,5,11.88,Credit Card,Non-Member,C117
+T3000416,2024-11-15,18:02:53,S004,East Market,P1004,Butter 250g,Dairy,6,4.94,0,29.64,Credit Card,Member,C111
+T3000417,2024-11-15,18:05:23,S001,Downtown,P1021,Potato Chips 150g,Snacks,1,3.29,5,3.13,Cash,Non-Member,C113
+T3000418,2024-11-15,18:06:42,S003,North Plaza,P1022,Chocolate Bar,Snacks,2,2.16,0,4.32,Debit Card,Non-Member,C109
+T3000419,2024-11-15,18:07:22,S004,East Market,P1017,Cola 2L,Beverages,1,2.67,0,2.67,Cash,Non-Member,C108
+T3000420,2024-11-15,18:07:50,S005,Southgate,P1002,Cheddar Cheese 200g,Dairy,6,6.12,0,36.72,Gift Card,Non-Member,C110
+T3000421,2024-11-15,18:09:37,S005,Southgate,P1026,Rice 2kg,Pantry,5,6.49,25,24.34,Gift Card,Member,C112
+T3000422,2024-11-15,18:09:38,S005,Southgate,P1011,Spinach 250g,Produce,1,2.34,20,1.87,Debit Card,Member,C106
+T3000423,2024-11-15,18:11:21,S004,East Market,P1001,Whole Milk 1L,Dairy,2,3.4,0,6.8,Gift Card,Member,C110
+T3000424,2024-11-15,18:11:43,S004,East Market,P1019,Coffee Beans 500g,Beverages,4,12.34,10,44.42,Cash,Member,C114
+T3000425,2024-11-15,18:17:01,S003,North Plaza,P1015,Shrimp 500g,Seafood,1,12.42,0,12.42,Mobile Wallet,Member,C108
+T3000426,2024-11-15,18:17:37,S001,Downtown,P1024,Cookies 300g,Snacks,3,4.4,0,13.2,Gift Card,Member,C105
+T3000427,2024-11-15,18:24:59,S004,East Market,P1004,Butter 250g,Dairy,1,4.66,15,3.96,Gift Card,Member,C115
+T3000428,2024-11-15,18:29:01,S002,Westside Mall,P1034,Hand Soap 300ml,Personal Care,1,3.36,0,3.36,Credit Card,Non-Member,C106
+T3000429,2024-11-15,18:29:30,S004,East Market,P1016,Orange Juice 1L,Beverages,2,4.06,0,8.12,Credit Card,Member,C112
+T3000430,2024-11-15,18:29:31,S005,Southgate,P1002,Cheddar Cheese 200g,Dairy,5,6.21,25,23.29,Credit Card,Member,C118
+T3000431,2024-11-15,18:31:38,S005,Southgate,P1037,Frozen Veggies 1kg,Frozen,1,4.71,25,3.53,Cash,Member,C113
+T3000432,2024-11-15,18:33:53,S001,Downtown,P1017,Cola 2L,Beverages,2,2.92,0,5.84,Cash,Member,C103
+T3000433,2024-11-15,18:35:56,S001,Downtown,P1004,Butter 250g,Dairy,2,4.86,0,9.72,Credit Card,Member,C101
+T3000434,2024-11-15,18:36:05,S003,North Plaza,P1024,Cookies 300g,Snacks,5,4.68,5,22.23,Cash,Member,C110
+T3000435,2024-11-15,18:36:45,S005,Southgate,P1016,Orange Juice 1L,Beverages,1,4.04,20,3.23,Debit Card,Member,C109
+T3000436,2024-11-15,18:37:57,S004,East Market,P1009,Apples 1kg,Produce,1,2.98,5,2.83,Cash,Member,C104
+T3000437,2024-11-15,18:38:04,S004,East Market,P1034,Hand Soap 300ml,Personal Care,2,3.25,0,6.5,Debit Card,Member,C114
+T3000438,2024-11-15,18:39:31,S005,Southgate,P1037,Frozen Veggies 1kg,Frozen,1,4.69,0,4.69,Credit Card,Member,C112
+T3000439,2024-11-15,18:42:20,S005,Southgate,P1036,Ice Cream 1L,Frozen,5,5.52,10,24.84,Gift Card,Member,C119
+T3000440,2024-11-15,18:45:59,S001,Downtown,P1012,Chicken Breast 1kg,Meat,1,12.03,10,10.83,Mobile Wallet,Member,C110
+T3000441,2024-11-15,18:49:32,S004,East Market,P1040,Honey 500g,Pantry,2,8.2,10,14.76,Debit Card,Member,C106
+T3000442,2024-11-15,18:50:19,S004,East Market,P1002,Cheddar Cheese 200g,Dairy,5,5.99,10,26.96,Gift Card,Non-Member,C116
+T3000443,2024-11-15,18:50:25,S003,North Plaza,P1005,White Bread Loaf,Bakery,2,2.5,0,5.0,Credit Card,Member,C103
+T3000444,2024-11-15,18:55:48,S002,Westside Mall,P1031,Laundry Detergent 2L,Household,3,13.66,15,34.83,Credit Card,Member,C117
+T3000445,2024-11-15,18:56:49,S001,Downtown,P1027,Olive Oil 1L,Pantry,6,11.16,5,63.61,Credit Card,Non-Member,C115
+T3000446,2024-11-15,18:57:02,S002,Westside Mall,P1038,Eggs 12pk,Dairy,1,5.14,0,5.14,Cash,Non-Member,C106
+T3000447,2024-11-15,18:57:23,S005,Southgate,P1024,Cookies 300g,Snacks,2,4.58,0,9.16,Gift Card,Member,C111
+T3000448,2024-11-15,18:59:32,S003,North Plaza,P1029,Dish Soap 750ml,Household,2,4.35,10,7.83,Credit Card,Non-Member,C111
+T3000449,2024-11-15,19:00:26,S001,Downtown,P1037,Frozen Veggies 1kg,Frozen,1,4.51,0,4.51,Cash,Member,C115
+T3000450,2024-11-15,19:01:28,S005,Southgate,P1008,Bananas 1kg,Produce,2,1.32,25,1.98,Mobile Wallet,Non-Member,C102
+T3000451,2024-11-15,19:01:55,S001,Downtown,P1003,Greek Yogurt 500g,Dairy,3,4.36,10,11.77,Cash,Member,C106
+T3000452,2024-11-15,19:02:34,S004,East Market,P1021,Potato Chips 150g,Snacks,1,3.18,0,3.18,Mobile Wallet,Member,C103
+T3000453,2024-11-15,19:06:17,S005,Southgate,P1010,Tomatoes 1kg,Produce,3,3.35,0,10.05,Gift Card,Non-Member,C113
+T3000454,2024-11-15,19:06:30,S002,Westside Mall,P1021,Potato Chips 150g,Snacks,1,3.3,5,3.13,Mobile Wallet,Non-Member,C119
+T3000455,2024-11-15,19:08:14,S005,Southgate,P1005,White Bread Loaf,Bakery,6,2.4,0,14.4,Credit Card,Member,C104
+T3000456,2024-11-15,19:11:26,S002,Westside Mall,P1033,Shampoo 400ml,Personal Care,5,7.27,20,29.08,Cash,Non-Member,C112
+T3000457,2024-11-15,19:12:12,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,6,3.48,0,20.88,Cash,Member,C111
+T3000458,2024-11-15,19:12:46,S002,Westside Mall,P1003,Greek Yogurt 500g,Dairy,1,4.45,0,4.45,Cash,Non-Member,C105
+T3000459,2024-11-15,19:15:00,S003,North Plaza,P1011,Spinach 250g,Produce,1,2.34,0,2.34,Cash,Non-Member,C117
+T3000460,2024-11-15,19:16:16,S004,East Market,P1038,Eggs 12pk,Dairy,2,4.9,0,9.8,Cash,Non-Member,C112
+T3000461,2024-11-15,19:16:18,S004,East Market,P1018,Mineral Water 1.5L,Beverages,3,1.14,0,3.42,Debit Card,Member,C114
+T3000462,2024-11-15,19:16:39,S004,East Market,P1036,Ice Cream 1L,Frozen,3,5.55,0,16.65,Mobile Wallet,Non-Member,C108
+T3000463,2024-11-15,19:16:54,S001,Downtown,P1036,Ice Cream 1L,Frozen,3,5.72,0,17.16,Credit Card,Member,C116
+T3000464,2024-11-15,19:17:04,S005,Southgate,P1032,Toothpaste 100ml,Personal Care,5,3.74,20,14.96,Mobile Wallet,Member,C107
+T3000465,2024-11-15,19:17:05,S004,East Market,P1004,Butter 250g,Dairy,4,4.59,0,18.36,Credit Card,Member,C109
+T3000466,2024-11-15,19:17:44,S005,Southgate,P1040,Honey 500g,Pantry,2,8.32,5,15.81,Credit Card,Non-Member,C105
+T3000467,2024-11-15,19:19:23,S002,Westside Mall,P1018,Mineral Water 1.5L,Beverages,5,1.17,0,5.85,Gift Card,Non-Member,C109
+T3000468,2024-11-15,19:21:56,S005,Southgate,P1040,Honey 500g,Pantry,1,8.36,25,6.27,Debit Card,Non-Member,C102
+T3000469,2024-11-15,19:23:33,S003,North Plaza,P1021,Potato Chips 150g,Snacks,1,3.38,25,2.54,Cash,Non-Member,C113
+T3000470,2024-11-15,19:23:33,S002,Westside Mall,P1019,Coffee Beans 500g,Beverages,1,13.02,5,12.37,Gift Card,Member,C115
+T3000471,2024-11-15,19:25:48,S004,East Market,P1034,Hand Soap 300ml,Personal Care,2,3.35,10,6.03,Debit Card,Member,C114
+T3000472,2024-11-15,19:25:48,S002,Westside Mall,P1014,Salmon Fillet 500g,Seafood,4,15.08,5,57.3,Debit Card,Non-Member,C106
+T3000473,2024-11-15,19:26:35,S001,Downtown,P1033,Shampoo 400ml,Personal Care,2,7.39,5,14.04,Cash,Member,C119
+T3000474,2024-11-15,19:32:43,S001,Downtown,P1021,Potato Chips 150g,Snacks,1,3.14,0,3.14,Cash,Non-Member,C111
+T3000475,2024-11-15,19:36:01,S005,Southgate,P1003,Greek Yogurt 500g,Dairy,6,4.09,5,23.31,Debit Card,Member,C116
+T3000476,2024-11-15,19:37:16,S005,Southgate,P1025,Pasta 500g,Pantry,1,2.28,0,2.28,Credit Card,Member,C120
+T3000477,2024-11-15,19:37:39,S002,Westside Mall,P1021,Potato Chips 150g,Snacks,2,3.34,20,5.34,Credit Card,Non-Member,C108
+T3000478,2024-11-15,19:43:36,S001,Downtown,P1014,Salmon Fillet 500g,Seafood,3,14.82,0,44.46,Credit Card,Non-Member,C119
+T3000479,2024-11-15,19:44:09,S005,Southgate,P1018,Mineral Water 1.5L,Beverages,3,1.17,0,3.51,Credit Card,Member,C113
+T3000480,2024-11-15,19:44:49,S003,North Plaza,P1037,Frozen Veggies 1kg,Frozen,3,4.74,0,14.22,Credit Card,Member,C102
+T3000481,2024-11-15,19:44:55,S004,East Market,P1017,Cola 2L,Beverages,2,2.68,5,5.09,Mobile Wallet,Non-Member,C108
+T3000482,2024-11-15,19:46:05,S002,Westside Mall,P1021,Potato Chips 150g,Snacks,2,3.24,5,6.16,Cash,Member,C103
+T3000483,2024-11-15,19:46:17,S004,East Market,P1004,Butter 250g,Dairy,4,4.87,0,19.48,Debit Card,Non-Member,C111
+T3000484,2024-11-15,19:46:43,S004,East Market,P1019,Coffee Beans 500g,Beverages,2,13.42,10,24.16,Mobile Wallet,Member,C117
+T3000485,2024-11-15,19:46:54,S001,Downtown,P1016,Orange Juice 1L,Beverages,3,4.14,0,12.42,Gift Card,Member,C104
+T3000486,2024-11-15,19:47:11,S001,Downtown,P1003,Greek Yogurt 500g,Dairy,2,4.19,10,7.54,Credit Card,Member,C104
+T3000487,2024-11-15,19:47:20,S001,Downtown,P1009,Apples 1kg,Produce,1,3.07,10,2.76,Debit Card,Non-Member,C115
+T3000488,2024-11-15,19:47:22,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,1,3.61,0,3.61,Gift Card,Non-Member,C105
+T3000489,2024-11-15,19:47:54,S003,North Plaza,P1022,Chocolate Bar,Snacks,1,2.08,20,1.66,Debit Card,Member,C118
+T3000490,2024-11-15,19:48:42,S003,North Plaza,P1017,Cola 2L,Beverages,2,2.78,0,5.56,Mobile Wallet,Non-Member,C111
+T3000491,2024-11-15,19:51:44,S005,Southgate,P1020,Green Tea 25 bags,Beverages,2,4.49,0,8.98,Credit Card,Member,C110
+T3000492,2024-11-15,19:52:55,S001,Downtown,P1002,Cheddar Cheese 200g,Dairy,3,5.97,0,17.91,Gift Card,Member,C114
+T3000493,2024-11-15,19:53:27,S001,Downtown,P1023,Mixed Nuts 250g,Snacks,5,8.35,5,39.66,Debit Card,Non-Member,C105
+T3000494,2024-11-15,19:54:47,S005,Southgate,P1028,Tomato Sauce 500g,Pantry,3,3.17,10,8.56,Cash,Member,C103
+T3000495,2024-11-15,19:54:52,S004,East Market,P1030,Paper Towels 6pk,Household,2,9.05,0,18.1,Gift Card,Non-Member,C107
+T3000496,2024-11-15,19:54:56,S001,Downtown,P1010,Tomatoes 1kg,Produce,2,3.52,15,5.98,Credit Card,Member,C115
+T3000497,2024-11-15,19:56:28,S003,North Plaza,P1037,Frozen Veggies 1kg,Frozen,2,4.52,20,7.23,Credit Card,Member,C120
+T3000498,2024-11-15,19:57:33,S003,North Plaza,P1020,Green Tea 25 bags,Beverages,4,4.38,20,14.02,Credit Card,Member,C107
+T3000499,2024-11-15,19:57:36,S005,Southgate,P1003,Greek Yogurt 500g,Dairy,1,4.12,15,3.5,Gift Card,Member,C111
+T3000500,2024-11-15,19:57:48,S004,East Market,P1007,Bagels 6pk,Bakery,2,4.85,0,9.7,Credit Card,Non-Member,C117
+T3000501,2024-11-15,20:00:13,S002,Westside Mall,P1021,Potato Chips 150g,Snacks,6,3.28,10,17.71,Debit Card,Member,C108
+T3000502,2024-11-15,20:01:13,S004,East Market,P1025,Pasta 500g,Pantry,1,2.16,0,2.16,Mobile Wallet,Non-Member,C105
+T3000503,2024-11-15,20:01:24,S003,North Plaza,P1025,Pasta 500g,Pantry,2,2.18,10,3.92,Credit Card,Non-Member,C103
+T3000504,2024-11-15,20:01:37,S001,Downtown,P1001,Whole Milk 1L,Dairy,1,3.63,0,3.63,Cash,Member,C114
+T3000505,2024-11-15,20:03:20,S003,North Plaza,P1023,Mixed Nuts 250g,Snacks,6,7.87,0,47.22,Mobile Wallet,Non-Member,C109
+T3000506,2024-11-15,20:03:53,S002,Westside Mall,P1008,Bananas 1kg,Produce,2,1.31,10,2.36,Gift Card,Member,C117
+T3000507,2024-11-15,20:04:14,S001,Downtown,P1005,White Bread Loaf,Bakery,1,2.42,10,2.18,Mobile Wallet,Non-Member,C106
+T3000508,2024-11-15,20:06:14,S004,East Market,P1021,Potato Chips 150g,Snacks,2,3.23,5,6.14,Debit Card,Member,C102
+T3000509,2024-11-15,20:06:33,S002,Westside Mall,P1023,Mixed Nuts 250g,Snacks,2,8.38,0,16.76,Debit Card,Member,C120
+T3000510,2024-11-15,20:06:48,S004,East Market,P1022,Chocolate Bar,Snacks,2,2.13,0,4.26,Credit Card,Member,C117
+T3000511,2024-11-15,20:07:34,S003,North Plaza,P1005,White Bread Loaf,Bakery,2,2.56,25,3.84,Credit Card,Non-Member,C103
+T3000512,2024-11-15,20:14:44,S001,Downtown,P1028,Tomato Sauce 500g,Pantry,4,3.15,0,12.6,Cash,Member,C120
+T3000513,2024-11-15,20:15:34,S002,Westside Mall,P1016,Orange Juice 1L,Beverages,4,3.92,0,15.68,Debit Card,Member,C114
+T3000514,2024-11-15,20:15:41,S003,North Plaza,P1011,Spinach 250g,Produce,2,2.25,0,4.5,Mobile Wallet,Member,C118
+T3000515,2024-11-15,20:17:32,S005,Southgate,P1012,Chicken Breast 1kg,Meat,1,11.69,15,9.94,Cash,Member,C102
+T3000516,2024-11-15,20:18:35,S005,Southgate,P1023,Mixed Nuts 250g,Snacks,2,8.04,10,14.47,Mobile Wallet,Non-Member,C113
+T3000517,2024-11-15,20:20:06,S002,Westside Mall,P1029,Dish Soap 750ml,Household,2,4.3,5,8.17,Debit Card,Member,C107
+T3000518,2024-11-15,20:20:29,S004,East Market,P1005,White Bread Loaf,Bakery,2,2.48,0,4.96,Credit Card,Non-Member,C111
+T3000519,2024-11-15,20:22:59,S002,Westside Mall,P1028,Tomato Sauce 500g,Pantry,3,3.16,0,9.48,Cash,Non-Member,C111
+T3000520,2024-11-15,20:24:45,S003,North Plaza,P1033,Shampoo 400ml,Personal Care,1,7.39,0,7.39,Mobile Wallet,Member,C117
+T3000521,2024-11-15,20:25:03,S004,East Market,P1020,Green Tea 25 bags,Beverages,1,4.47,0,4.47,Mobile Wallet,Member,C105
+T3000522,2024-11-15,20:25:35,S002,Westside Mall,P1001,Whole Milk 1L,Dairy,2,3.42,0,6.84,Gift Card,Non-Member,C117
+T3000523,2024-11-15,20:29:18,S005,Southgate,P1035,Frozen Pizza,Frozen,1,7.01,0,7.01,Mobile Wallet,Member,C106
+T3000524,2024-11-15,20:31:15,S004,East Market,P1017,Cola 2L,Beverages,1,2.92,0,2.92,Gift Card,Member,C119
+T3000525,2024-11-15,20:31:20,S004,East Market,P1023,Mixed Nuts 250g,Snacks,2,8.18,0,16.36,Gift Card,Non-Member,C107
+T3000526,2024-11-15,20:32:45,S003,North Plaza,P1016,Orange Juice 1L,Beverages,2,4.11,0,8.22,Mobile Wallet,Member,C104
+T3000527,2024-11-15,20:35:10,S004,East Market,P1031,Laundry Detergent 2L,Household,1,13.28,0,13.28,Credit Card,Member,C104
+T3000528,2024-11-15,20:35:41,S004,East Market,P1037,Frozen Veggies 1kg,Frozen,2,4.56,0,9.12,Credit Card,Non-Member,C117
+T3000529,2024-11-15,20:40:47,S004,East Market,P1037,Frozen Veggies 1kg,Frozen,1,4.92,0,4.92,Mobile Wallet,Non-Member,C101
+T3000530,2024-11-15,20:43:27,S005,Southgate,P1030,Paper Towels 6pk,Household,6,9.09,10,49.09,Debit Card,Member,C105
+T3000531,2024-11-15,20:44:47,S003,North Plaza,P1005,White Bread Loaf,Bakery,2,2.42,0,4.84,Mobile Wallet,Non-Member,C113
+T3000532,2024-11-15,20:46:26,S003,North Plaza,P1008,Bananas 1kg,Produce,4,1.29,0,5.16,Credit Card,Non-Member,C119
+T3000533,2024-11-15,20:46:50,S003,North Plaza,P1015,Shrimp 500g,Seafood,1,12.25,0,12.25,Cash,Non-Member,C112
+T3000534,2024-11-15,20:47:11,S001,Downtown,P1004,Butter 250g,Dairy,2,4.77,0,9.54,Credit Card,Member,C115
+T3000535,2024-11-15,20:51:17,S004,East Market,P1016,Orange Juice 1L,Beverages,2,3.95,20,6.32,Gift Card,Non-Member,C118
+T3000536,2024-11-15,20:53:49,S003,North Plaza,P1012,Chicken Breast 1kg,Meat,2,11.53,0,23.06,Gift Card,Member,C104
+T3000537,2024-11-15,20:56:53,S004,East Market,P1004,Butter 250g,Dairy,2,4.68,0,9.36,Cash,Non-Member,C117
+T3000538,2024-11-15,20:57:05,S003,North Plaza,P1032,Toothpaste 100ml,Personal Care,1,3.94,25,2.96,Mobile Wallet,Member,C103
+T3000539,2024-11-15,21:00:57,S002,Westside Mall,P1036,Ice Cream 1L,Frozen,4,5.63,25,16.89,Debit Card,Non-Member,C104
+T3000540,2024-11-15,21:01:27,S005,Southgate,P1018,Mineral Water 1.5L,Beverages,3,1.24,0,3.72,Mobile Wallet,Member,C117
+T3000541,2024-11-15,21:03:28,S005,Southgate,P1012,Chicken Breast 1kg,Meat,3,11.95,5,34.06,Credit Card,Member,C103
+T3000542,2024-11-15,21:04:00,S003,North Plaza,P1005,White Bread Loaf,Bakery,4,2.41,10,8.68,Cash,Non-Member,C111
+T3000543,2024-11-15,21:04:23,S003,North Plaza,P1023,Mixed Nuts 250g,Snacks,1,7.75,0,7.75,Gift Card,Non-Member,C119
+T3000544,2024-11-15,21:08:32,S004,East Market,P1003,Greek Yogurt 500g,Dairy,3,4.06,20,9.74,Debit Card,Member,C113
+T3000545,2024-11-15,21:11:01,S002,Westside Mall,P1016,Orange Juice 1L,Beverages,3,4.18,25,9.4,Mobile Wallet,Non-Member,C111
+T3000546,2024-11-15,21:12:11,S001,Downtown,P1033,Shampoo 400ml,Personal Care,2,7.48,10,13.46,Credit Card,Member,C108
+T3000547,2024-11-15,21:12:15,S003,North Plaza,P1031,Laundry Detergent 2L,Household,1,13.1,5,12.44,Mobile Wallet,Non-Member,C102
+T3000548,2024-11-15,21:12:31,S001,Downtown,P1034,Hand Soap 300ml,Personal Care,2,3.53,10,6.35,Gift Card,Member,C114
+T3000549,2024-11-15,21:12:49,S003,North Plaza,P1037,Frozen Veggies 1kg,Frozen,5,4.67,0,23.35,Debit Card,Member,C105
+T3000550,2024-11-15,21:14:20,S004,East Market,P1006,Croissant Pack,Bakery,2,6.64,10,11.95,Debit Card,Member,C103
+T3000551,2024-11-15,21:14:56,S003,North Plaza,P1031,Laundry Detergent 2L,Household,5,13.54,15,57.54,Debit Card,Non-Member,C116
+T3000552,2024-11-15,21:15:59,S005,Southgate,P1014,Salmon Fillet 500g,Seafood,2,15.04,10,27.07,Mobile Wallet,Member,C111
+T3000553,2024-11-15,21:20:47,S004,East Market,P1026,Rice 2kg,Pantry,4,6.68,0,26.72,Mobile Wallet,Non-Member,C119
+T3000554,2024-11-15,21:21:11,S001,Downtown,P1019,Coffee Beans 500g,Beverages,1,13.17,10,11.85,Mobile Wallet,Member,C113
+T3000555,2024-11-15,21:21:13,S002,Westside Mall,P1033,Shampoo 400ml,Personal Care,1,6.86,15,5.83,Mobile Wallet,Non-Member,C113
+T3000556,2024-11-15,21:23:15,S005,Southgate,P1007,Bagels 6pk,Bakery,3,4.78,20,11.47,Mobile Wallet,Non-Member,C114
+T3000557,2024-11-15,21:30:04,S003,North Plaza,P1033,Shampoo 400ml,Personal Care,1,7.24,25,5.43,Debit Card,Member,C110
+T3000558,2024-11-15,21:31:52,S005,Southgate,P1011,Spinach 250g,Produce,3,2.29,0,6.87,Credit Card,Non-Member,C111
+T3000559,2024-11-15,21:32:09,S005,Southgate,P1035,Frozen Pizza,Frozen,1,7.24,5,6.88,Cash,Member,C103
+T3000560,2024-11-15,21:32:12,S003,North Plaza,P1040,Honey 500g,Pantry,1,8.29,0,8.29,Credit Card,Member,C117
+T3000561,2024-11-15,21:33:37,S004,East Market,P1036,Ice Cream 1L,Frozen,2,5.52,0,11.04,Mobile Wallet,Non-Member,C113
+T3000562,2024-11-15,21:34:15,S004,East Market,P1015,Shrimp 500g,Seafood,4,12.81,0,51.24,Cash,Non-Member,C106
+T3000563,2024-11-15,21:34:23,S005,Southgate,P1029,Dish Soap 750ml,Household,3,4.25,10,11.47,Cash,Non-Member,C114
+T3000564,2024-11-15,21:34:29,S001,Downtown,P1036,Ice Cream 1L,Frozen,3,5.43,5,15.48,Mobile Wallet,Member,C119
+T3000565,2024-11-15,21:35:26,S004,East Market,P1011,Spinach 250g,Produce,2,2.28,0,4.56,Mobile Wallet,Member,C104
+T3000566,2024-11-15,21:36:59,S005,Southgate,P1021,Potato Chips 150g,Snacks,3,3.26,0,9.78,Debit Card,Non-Member,C119
+T3000567,2024-11-15,21:37:20,S003,North Plaza,P1020,Green Tea 25 bags,Beverages,1,4.39,25,3.29,Cash,Member,C113
+T3000568,2024-11-15,21:39:21,S001,Downtown,P1025,Pasta 500g,Pantry,1,2.2,5,2.09,Cash,Member,C103
+T3000569,2024-11-15,21:40:43,S003,North Plaza,P1038,Eggs 12pk,Dairy,3,4.92,0,14.76,Credit Card,Member,C119
+T3000570,2024-11-15,21:42:15,S002,Westside Mall,P1010,Tomatoes 1kg,Produce,1,3.39,15,2.88,Mobile Wallet,Member,C109
+T3000571,2024-11-15,21:43:56,S002,Westside Mall,P1001,Whole Milk 1L,Dairy,4,3.51,0,14.04,Credit Card,Non-Member,C117
+T3000572,2024-11-15,21:47:31,S003,North Plaza,P1022,Chocolate Bar,Snacks,4,2.06,0,8.24,Credit Card,Member,C106
+T3000573,2024-11-15,21:50:09,S002,Westside Mall,P1037,Frozen Veggies 1kg,Frozen,1,4.8,0,4.8,Mobile Wallet,Member,C112
+T3000574,2024-11-15,21:50:28,S005,Southgate,P1037,Frozen Veggies 1kg,Frozen,2,4.61,0,9.22,Debit Card,Member,C120
+T3000575,2024-11-15,21:51:20,S003,North Plaza,P1002,Cheddar Cheese 200g,Dairy,6,6.03,20,28.94,Gift Card,Member,C119
+T3000576,2024-11-15,21:52:36,S001,Downtown,P1037,Frozen Veggies 1kg,Frozen,4,4.74,0,18.96,Mobile Wallet,Member,C107
+T3000577,2024-11-15,21:53:00,S005,Southgate,P1013,Ground Beef 1kg,Meat,2,9.68,5,18.39,Debit Card,Member,C112
